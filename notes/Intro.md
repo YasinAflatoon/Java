@@ -21,4 +21,3 @@ According to [Oracle](https://www.oracle.com/java/moved-by-java/timeline/#2015) 
 * Close syntax to English and easy for beginners to learn.
 
 and that's enough for intro folks!
-
