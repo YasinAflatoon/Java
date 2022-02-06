@@ -2,7 +2,7 @@
 
 Java is a programming language, created in 1995 and it's currently owned by Oracle.
 
-Java is used in many diffrent fields like:
+Java is used in many different fields like:
 
 * Mobile Applications (Android)
 * Desktop and web Applications
@@ -14,10 +14,11 @@ According to [Oracle](https://www.oracle.com/java/moved-by-java/timeline/#2015) 
 
 ## Why Java?  
 
-* Java is a Cross-platform language which allows you to run it on a JRE in any OS.
-* It's an OOP (object oriented programming) language which gives a clear structure to programs and allows code to be reused, lowering development costs.
-* It's open source and has a huge community support.
-* It's secure, fast and powerful.
-* Close syntax to English and easy for begginers to learn.
+* Java is a Cross-platform language that allows you to run it on a JRE in any OS.
+* It's an OOP (object-oriented programming) language that gives a clear structure to programs and allows code to be reused, lowering development costs.
+* It's open-source and has huge community support.
+* It's secure, fast, and powerful.
+* Close syntax to English and easy for beginners to learn.
 
 and that's enough for intro folks!
+
