@@ -50,7 +50,7 @@ public static void main(String[] args) {
 } 
 ```
 
-Currently, you don't need to worry about those phrases `public`, `static`, `void`, you are gonna learn them all. Just for now, just know that our main method should be written like the above code.
+Currently, you don't need to worry about those phrases `public`, `static`, `void`, you are gonna learn them all. For now, just know that our main method should be written like the above code.
 
 Then inside the main method write this code:
 
