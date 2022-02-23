@@ -16,5 +16,3 @@ Remember choosing an IDE is not a big deal and you can move on to another one ve
 > The best IDE is the one that maximizes your productivity.
 
 and now you are ready to write your first Java program!
-
-> * Next Lesson: [First Java Program](/notes/FirstJavaProgram.md)
