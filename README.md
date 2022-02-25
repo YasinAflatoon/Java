@@ -8,9 +8,10 @@ Java is a powerful programming language with great community support which can b
 
 ## Notes
 
-| #     | Title                                          |
-| ----- | ---------------------------------------------- |
-| `001` | [Intro](notes/Intro.md)                        |
-| `002` | [Get Started](notes/GetStarted.md)             |
-| `003` | [First Java Program](notes/FirstJavaProgram.md)|
-| `004` | [Keep Things Clean](notes/KeepThingsClean.md)  |
+| #     | Title                                                  |
+| ----- | ------------------------------------------------------ |
+| `001` | [Intro](notes/Intro.md)                                |
+| `002` | [Get Started](notes/GetStarted.md)                     |
+| `003` | [First Java Program](notes/FirstJavaProgram.md)        |
+| `004` | [Keep Things Clean](notes/KeepThingsClean.md)          |
+| `005` | [Some Basic Fundaments](notes/SomeBasicFundaments.md)  |
