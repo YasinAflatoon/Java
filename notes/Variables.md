@@ -44,13 +44,13 @@ The char data type is for holding one single character that you can type through
 
 #### boolean
 
-The boolean data type is for holding only two values of `true` or 'false'.
+The boolean data type is for holding only two values of `true` or `false`.
 
 ### Non-Primitive Data Type
 
 Non-primitive data types in Java are not predefined. They are created by programmers. Non-primitive data types are also called 'reference variables' or 'object references' as they reference a memory location where data is stored. Some of the examples of non-primitive types include `strings`, `arrays`, and `classes`.
 
-> We already know about class definition we head to the other two.
+> We already know about class definition, so we head to the other two.
 
 #### String
 
@@ -71,7 +71,7 @@ So now we know different data types, it's time to declare them in our programs. 
 2. Give our variable an appropriate name.
 3. Put a semicolon at end of the line.
 
-Now our variable is created in ram but it doesn't contain any data or value so we need to initialize it. To initialize variables may be a bit tricky and differ from one data type to another.
+Now our variable is created in ram but it doesn't contain any data or value so we need to initialize it. Initializing a variable may be a bit tricky and differ from one data type to another.
 
 ## Initializing
 
