@@ -15,3 +15,4 @@ Java is a powerful programming language with great community support which can b
 | `003` | [First Java Program](notes/FirstJavaProgram.md)        |
 | `004` | [Keep Things Clean](notes/KeepThingsClean.md)          |
 | `005` | [Some Basic Fundaments](notes/SomeBasicFundaments.md)  |
+| `006` | [Variables](notes/Variables.md)                        |
