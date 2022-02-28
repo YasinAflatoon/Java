@@ -91,11 +91,17 @@ String address = "No. 32, liberty street";
 
 As you may notice initializing pattern is easy to follow you only need to put an equal sign and then set a value and end the line with a semicolon. But there are some points:
 
+> In Java, equal sign usage is not the same as math, it is used for assignments. In easier language, you can think of an equal sign as a left arrow (<-) which copies the number and puts it in the declared variable.
+
 * In case of using long or float data type you need to put letters 'L' as long and 'F' as a float between the number you assign to variable and semicolon.
 
 > The reason behind this act, is because Java automatically knows all decimal numbers as double and the same for int in integers. So we put these letters to specify them.
 
 * In char initialization, you need to put the character between two single quotation marks. But for strings, we should put the phrase between double quotations.
+
+* A variable value can be changed through the program or runtime, so don't look at the values as a fixed element.
+
+* If you set a new initialization to an already-valued variable, the old value will be replaced by the new one
 
 ## Variable Naming
 
