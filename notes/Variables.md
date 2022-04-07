@@ -107,7 +107,7 @@ As you may notice initializing pattern is easy to follow you only need to put an
 
 Variable naming is an important aspect of making your code readable. Naming variables follow a simple idea: Create variables that describe their function and which follow a consistent theme throughout your code. Let’s take a look at some naming conventions:
 
-### Snackecase
+### Snakecase
 
 Words are delimited by an underscore.
 
