@@ -65,7 +65,7 @@ Assignment operators are used in Java to assign values to variables.
 | /=       | **Divide AND assignment operator.** It divides left operand with the right operand and assign the result to left operand.      |
 | %=       | **Modulus AND assignment operator.** It takes modulus using two operands and assign the result to left operand.                |
 
-Unlike math we have two seperate oprators for assignment and equality Remember avoid confliction between assignment operator (=) and equality operator (==)
+Unlike math we have two seperate oprators for assignment and equality Remember avoid confliction between assignment operator (=) and equality operator (==).
 
 ![AssignmentResult](/media/img09.png)
 
