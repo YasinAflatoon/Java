@@ -67,7 +67,7 @@ The array data type is used for saving two or more data types in one variable an
 
 So now we know different data types, it's time to declare them in our programs. To define a variable we need to:
 
-1. S[pecify the data type.
+1. Specify the data type.
 2. Give our variable an appropriate name.
 3. Put a semicolon at end of the line.
 
