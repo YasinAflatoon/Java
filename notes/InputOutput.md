@@ -60,6 +60,12 @@ char grade = keyboardInput.next().chatAt(0);
 
 > next() function returns the next token/word in the input as a string and charAt(0) function returns the first character in that string.
 
+It is recommaned to close the scanner after recieving an input. Simply type the scanner's name and put .close() after that:
+
+``` Java
+keyboardInput.close();
+```
+
 ## Output
 
 As mentioned before we use `System.out.println()` to show an output but we're gonna add some points here:
