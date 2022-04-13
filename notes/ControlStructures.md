@@ -44,6 +44,35 @@ if (a > 10) {
 
 In this example, if the condition was true('a' were greater than 10), that block of code will be executed (it will be increased by 10.) But if the condition was false the second block will be executed only.
 
+#### Ternary Operator
+
+There is also a short-hand if-else, which is known as the ternary operator because it consists of three operands. It can be used to replace multiple lines of code with a single line and is most often used to replace simple if-else statements.
+
+Format:
+
+``` Java
+variable = (condition) ? expressionTrue :  expressionFalse;
+```
+
+so instead of writing:
+
+``` Java
+int hour;
+if (hour < 12) {
+  System.out.println(hour + "AM.");
+} else {
+  System.out.println(hour + "PM.");
+}
+```
+
+you can simply write:
+
+``` Java
+int hour;
+String result = (hour < 12) ? "AM." : "PM.";
+System.out.println(hour + result);
+```
+
 ### else if
 
 Use `else if` to specify a new condition to test, if the first condition is false.
