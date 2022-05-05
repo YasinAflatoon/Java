@@ -18,6 +18,26 @@ You may think indentation pattern is hard to follow, so here is a very simple an
 
 In IntelliJ, there is a shortcut "`Ctrl(or Command)` + `Alt` + `L`" which will fix your indentations automatically and you don't need to spend too much time on it.
 
+## Comment
+
+We use `comments` to document programs and improve readablity. The java compiler ignores comments, so they don't have any role in the program.
+
+In order to comment a single line in Java, we use the following pattern:
+
+``` Java
+// This is a commented line.
+```
+
+to comment multiple lines, we need to put all the phrases between /\* \*/
+
+``` Java
+/* This is how
+it works*/
+some other code
+```
+
+> In intelliJ (and some other IDEs) there is a keyboard shorcut for commenting multiple lines, first you select the lines then you press `Ctrl/Command` + `/`
+
 ## Theme
 
 Many people (me included) like to use their IDE on a black screen with some colored texts to feel that "programming vibe". if you are one of those, good news for you! IDEs provide many themes and plugins so you can download them and apply them to your IDE and don't worry if you are not satisfied with your current IDE appearance.
