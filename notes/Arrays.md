@@ -10,15 +10,15 @@ Example:
 String[] friends;
 ```
 
-We have now declared a variable that holds an array of strings. To insert values to it, we can use an array literal - place the values in a comma-separated list, inside curly braces.
+We have now declared a variable that holds an array of strings. To insert values into it, we can use an array literal - place the values in a comma-separated list, inside curly braces.
 
 ``` Java
 String[] friends = {"Joey", "Phoebe", "Monica", "Chandler", "Ross", "Rachel"};
 ```
 
-The length of an array will be created once (when the array is initialized). So in previous example our array length is 6.
+The length of an array will be created once (when the array is initialized). So in the previous example, our array length is 6.
 
-There is another method to declare an array and length without initialazing:
+There is another method to declare an array and length without initializing:
 
 ``` Java
 String[] frineds = new String[6];
