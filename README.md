@@ -19,3 +19,4 @@ Java is a powerful programming language with great community support which can b
 | `007` | [Operators](notes/Operators.md)                        |
 | `008` | [Input and Output](notes/InputOutput.md)               |
 | `009` | [Control Structures](notes/ControlStructures.md)       |
+| `010` | [Arrays](notes/Arrays.md)                              |
