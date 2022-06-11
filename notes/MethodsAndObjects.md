@@ -1,6 +1,6 @@
 # Methods and Object
 
-In this tutorial we're going to talk more specifically, about methods and how they are related to objects.
+In this tutorial, we're going to talk more specifically, about methods and how they are related to objects.
 
 ## static and non-static
 
@@ -61,4 +61,50 @@ Car speed reduced.
 Gear shifted down.
 ```
 
-As you can see, we created the program for a car which has only two methods "brake" and "shiftGear" and we created an object "pagani zonda" which can use these two methods.
+As you can see, we created the program for a car that has only two methods "brake" and "shiftGear" and we created an object "pagani zonda" which can use these two methods.
+
+## Java Constructors
+
+A constructor in Java is a special **method** that is used to initialize objects. The constructor is called when an object of a class is created. It can be used to set initial values for object attributes:
+
+``` Java
+public class Main {
+    int x;  // Class attribte
+
+    // Class Constructor:
+    public Main() {
+        x = 8;
+    }
+
+    public static void main(String[] args) {
+        Main obj = new Main(); // This will call the constructor
+        System.out.println(obj.x);
+    }
+} // Outputs: 8
+```
+
+* The constructor name must match the class name, and it cannot have a return type.
+* All classes have constructors by default: if you do not create a class constructor yourself, Java creates one for you. However, then you are not able to set initial values for object attributes.
+* Also note that the constructor is called when the object is created.
+
+### Constructor Parameters
+
+Constructors can also take parameters, which are used to initialize attributes.
+
+``` Java
+public class Main {
+    int x;
+
+    public Main(int value) {
+        x = value;
+    }
+
+    public static void main(String[] args) {
+        Main obj = new Main(8); // Initializes x to 8;
+        System.out.println(obj.x);
+        // Outputs: 8
+    }
+}
+```
+
+In the example above, when we call the constructor by "8", it sets _int value_ to 8 and then initializes _x_ by the same value.
