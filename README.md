@@ -27,3 +27,4 @@ Java is a powerful programming language with great community support which can b
 | `015` | [Modifiers](notes/Modifiers.md)                       |
 | `016` | [Encapsulation](notes/Encapsulation.md)               |
 | `017` | [Packages and API](notes/PackagesAndAPI.md)           |
+| `018` | [Inheritance](notes/Inheritance.md)                   |
