@@ -72,5 +72,12 @@ public class Main {
         System.out.println("Exception handled successfully.");
     }
   }
-} // Outputs: Something went wrong.
+}
+```
+
+Outputs:
+
+``` Console
+Something went wrong.
+Exception handled successfully.
 ```
