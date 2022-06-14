@@ -125,6 +125,8 @@ VariableOne
 VariableTwo
 ```
 
+> Pacsalcase is normally used for classes.
+
 ### Camalcase
 
 Words are delimited by capital letters, except the initial word.
@@ -133,5 +135,7 @@ Words are delimited by capital letters, except the initial word.
 variableOne
 variableTwo
 ```
+
+> Camalcase is normally used for methods and variables.
 
 Consistency and readability are key ideas that should be utilized in the naming of variables and these conventions help you with this. Regardless of how you choose to name your variables, always ensure that your naming conventions are consistent throughout the code. Consistency allows others to understand your code easily.
