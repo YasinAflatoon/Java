@@ -30,3 +30,4 @@ Java is a powerful programming language with great community support which can b
 | `018` | [Inheritance](notes/Inheritance.md)                   |
 | `019` | [Nested Classes](notes/NestedClasses.md)              |
 | `020` | [Abstraction](notes/Abstraction.md)                   |
+| `021` | [Enum](notes/Enum.md)                                 |
