@@ -22,8 +22,8 @@ class Car extends Vehicle {
     // Create a myCar object
     Car myCar = new Car();
 
-    // Call the honk() method (from the Vehicle class) on the myCar object
-    myCar.honk();
+    // Call the start() method (from the Vehicle class) on the myCar object
+    myCar.start();
 
     // Display the value of the brand attribute (from the Vehicle class) and the value of the modelName from the Car class
     System.out.println(myCar.brand + " " + myCar.modelName);
