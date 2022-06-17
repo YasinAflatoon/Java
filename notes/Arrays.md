@@ -32,7 +32,7 @@ System.out.println(friends[0]);
 // Outputs: Joey
 ```
 
-> Note: Array indexes start with 0: [0] is the first element. [1] is the second element, etc and ends with n-1 index (Ross is friends[5]).
+> Note: Array indexes start with 0: [0] is the first element. [1] is the second element, etc and ends with n-1 index (Rachel is friends[5]).
 
 * To change the value of a specific element, refer to the index number:
 
